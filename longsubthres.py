@@ -1,0 +1,2 @@
+def longsubarr(nums,t):
+    
